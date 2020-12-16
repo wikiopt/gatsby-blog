@@ -17,9 +17,9 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: 'GCN',
+    title: 'Fahad Blogs',
     description:
-      'A starter template to build amazing static websites with Gatsby, Contentful and Netlify',
+      'We Deliver the Best',
     siteUrl: 'https://gcn.netlify.com',
     image: '/images/share.jpg',
     menuLinks: [
@@ -36,8 +36,8 @@ module.exports = {
         slug: '/contact/',
       },
     ],
-    postsPerFirstPage: 7,
-    postsPerPage: 6,
+    postsPerFirstPage: 8,
+    postsPerPage: 10,
     basePath: '/',
   },
   plugins: [
